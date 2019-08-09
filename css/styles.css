@@ -6,16 +6,18 @@ body  {
   background-image: url("../img/gorge1.jpg");
   background-size: 100%;
   height: 200px;
-  width: 100%;
-  color: #aee8c6;
+  width: full;
+  color: black;
   font-family: trebuchet;
   font-style: normal;
   margin: 30px;
+  width: absolute;
   /* position: absolute; */
 }
 
 #jumbotron-title {
   font-style: italic;
+  color: black;
 }
 
 /* #navbar {

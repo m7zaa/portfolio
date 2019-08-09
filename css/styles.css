@@ -5,3 +5,18 @@
   height: 300px;
   width: 1000px;
 }
+
+.sidebar {
+  float: right;
+  /* text-align: left; */
+}
+#about {
+  text-align: center;
+}
+.micah {
+  float: left;
+  height: 100px;
+}
+/* .panel-body {
+  text-align: left;
+} */

@@ -3,19 +3,25 @@
   background-image: url("../img/gorge.jpg");
   background-size: 100%;
   height: 300px;
-  width: 1000px;
+  width: 100%;
+
 }
 
 .sidebar {
   float: right;
   /* text-align: left; */
 }
-#about {
+/* #about {
+  text-align: left;
+} */
+#about-title {
   text-align: center;
+  margin: 20px;
 }
 .micah {
   float: left;
-  height: 100px;
+  height: 250px;
+  margin: 10px;
 }
 /* .panel-body {
   text-align: left;

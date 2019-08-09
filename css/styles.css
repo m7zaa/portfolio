@@ -1,12 +1,17 @@
 .jumbotron {
   text-align:center;
-  background-image: url("../img/gorge.jpg");
+  background-image: url("../img/gorge1.jpg");
   background-size: 100%;
   height: 300px;
   width: 100%;
-
+  color: #aee8c6;
+  font-family: trebuchet;
+  font-style: normal;
 }
 
+body  {
+  background-color: beige;
+}
 .sidebar {
   float: right;
   /* text-align: left; */

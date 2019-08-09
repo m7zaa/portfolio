@@ -37,10 +37,25 @@ body  {
 }
 
 #contact {
-  margin: 20px;
+  margin: 0px;
+  padding: 40px;
+}
+#contact-img {
+  float: left;
+  height: 300px;
+  margin: 40px;
+}
+#linkedin-logo {
+  height: 50px;
+}
+#email-logo {
+  height: 50px;
+}
+#github-logo {
+  height: 50px;
 }
 .micah-img {
   float: left;
-  height: 250px;
+  height: 150px;
   margin: 10px;
 }

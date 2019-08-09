@@ -11,16 +11,28 @@ body  {
   font-family: trebuchet;
   font-style: normal;
   margin: 30px;
+  /* position: absolute; */
 }
 
 #jumbotron-title {
   font-style: italic;
 }
+
+#navbar {
+  position: absolute;
+  left: 0px;
+  height: 40px;
+  background-color: #2C64B4;
+  width: 100%;
+  margin: 0 auto;
+}
+
 #about-title {
   text-align: center;
   margin: 20px;
 }
 #about {
+  /* margin: 50px; */
   padding: 20px;
 }
 .micah-img {

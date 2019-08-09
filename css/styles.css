@@ -1,18 +1,18 @@
 body  {
   background-color: beige;
 }
-/* .jumbotron {
+.jumbotron {
   text-align:center;
   background-image: url("../img/gorge1.jpg");
   background-size: 100%;
   height: 200px;
   width: 100%;
-  color: #aee8c6;
+  color: #black;
   font-family: trebuchet;
   font-style: normal;
   margin: 30px;
-  /* position: absolute; */
-} */
+  a
+}
 
 #jumbotron-title {
   font-style: italic;
@@ -36,6 +36,9 @@ body  {
   padding: 20px;
 }
 
+#contact {
+  margin: 20px;
+}
 .micah-img {
   float: left;
   height: 250px;
